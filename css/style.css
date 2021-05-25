@@ -49,6 +49,10 @@ p {
     padding: 150px 100px 0 100px;
 }
 
+.middle-container{
+    background-color: #0000;
+}
+
 .profile{
     padding : 100px;
 }
