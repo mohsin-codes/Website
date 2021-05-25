@@ -1,0 +1,169 @@
+body {
+    margin: 0px;
+    text-align: center;
+    background-color: #0000;
+}
+
+hr{
+    border: 6px dotted;
+    border-bottom: none;
+    border-color: #FA255E;
+    border-width: 20px;
+    width: 10%;
+}
+
+h1 {
+    color: #FA255E;
+    font-family: "Cinzel Decorative", cursive;
+    font-size: 5rem;
+    margin: 3.125rem auto 0 auto;
+}
+
+h2{
+    font-weight: normal;
+    margin: auto;
+    font-size: 2.5rem;
+}
+
+h2, h3{
+    color: #C39EA0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    color: #C39EA0;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+}
+
+.Pro {
+    text-decoration: underline;
+}
+
+.top-container {
+    background-color: #000000;
+    color: #F8E5E5;
+    position: relative;
+    padding: 150px 100px 0 100px;
+}
+
+.profile{
+    padding : 100px;
+}
+
+.profile-photo{
+    width: 25%;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+
+.skills{
+    padding: 100px;
+}
+.skill-row{
+    width: 50%;
+    margin: 6.25rem auto 6.25rem auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.skill-img{
+     width: 20%;
+}
+
+.web{
+    float: left;
+    margin-right: 30px;
+}
+
+.python{
+    float: right;
+    
+}
+
+.csharp{
+    float : left;
+    margin-right: 30px;
+}
+
+.sql{
+    float: right;
+    margin-left: 30px;
+}
+
+.photography{
+    float: left;
+    margin-right: 30px;
+}
+
+.cloud {
+    width: 15%;
+}
+
+.mountain {
+    width: 75%;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 20%;
+    top: 0%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 20%;
+    bottom: 35%;
+}
+
+.bottom-container{
+    background-color: #000000;
+    padding : 25px;
+    margin-top: 5%;
+}
+
+.contact-me{
+    padding: 100px;
+}
+
+.footer-link{
+    margin: 50px;
+    font-size: 1.15rem;
+}
+
+.BUTTON_IOR {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+    padding: 20px;
+    background-color: #0000;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 30px;
+ }
+ 
+ .BUTTON_IOR:hover {
+    background: #000000;
+    border: solid #000000 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
