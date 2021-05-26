@@ -16,14 +16,14 @@ hr{
 h1 {
     color: #FA255E;
     font-family: "Cinzel Decorative", cursive;
-    font-size: 5rem;
+    font-size: 6vw;
     margin: 3.125rem auto 0 auto;
 }
 
 h2{
     font-weight: normal;
     margin: auto;
-    font-size: 2.5rem;
+    font-size: 4vw;
 }
 
 h2, h3{
